@@ -9,7 +9,7 @@ export default function Navbar() {
       </Link>
       <div className="nav-links">
         <Link className="nav-link" href="/">Recipes</Link>
-        <Link className="nav-link nav-link--github" href="/" target="_blank" rel="noreferrer">
+        <Link className="nav-link nav-link--github" href="https://github.com/biswajiths/nextbites.git" target="_blank" rel="noreferrer">
           GitHub
         </Link>
       </div>
